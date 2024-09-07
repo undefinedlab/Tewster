@@ -1,0 +1,156 @@
+{
+  "items": [
+    {
+      "key": "1",
+      "artist": 0,
+      "image": "https://picsum.photos/seed/jersey1/400/300",
+      "price": "2.5",
+      "title": "Signed Thunder Jack Jersey (Phygital)",
+      "timeLeft": 172800000,
+      "type": "phygital",
+      "sport": "Basketball"
+    },
+    {
+      "key": "2",
+      "artist": 1,
+      "image": "https://picsum.photos/seed/stadium1/400/300",
+      "price": "0.5",
+      "title": "Virtual Redstone Arena Tour",
+      "timeLeft": 86400000,
+      "type": "digital",
+      "sport": "Football"
+    },
+    {
+      "key": "3",
+      "artist": 2,
+      "image": "https://picsum.photos/seed/tennis1/400/300",
+      "price": "1.8",
+      "title": "Grasscourt Majors 2025 Final Tickets",
+      "timeLeft": 2592000000,
+      "type": "event_ticket",
+      "sport": "Tennis"
+    },
+    {
+      "key": "4",
+      "artist": 3,
+      "image": "https://picsum.photos/seed/golf1/400/300",
+      "price": "0.3",
+      "title": "Golden Bear Golf Club NFT",
+      "timeLeft": 432000000,
+      "type": "digital",
+      "sport": "Golf"
+    },
+    {
+      "key": "5",
+      "artist": 4,
+      "image": "https://picsum.photos/seed/torch1/400/300",
+      "price": "5.0",
+      "title": "1936 Athenian Games Torch (Artifact)",
+      "timeLeft": 604800000,
+      "type": "tangible",
+      "sport": "Olympics"
+    },
+    {
+      "key": "6",
+      "artist": 5,
+      "image": "https://picsum.photos/seed/f11/400/300",
+      "price": "1.2",
+      "title": "F1 Blue Bull Racing Car Part (Phygital)",
+      "timeLeft": 259200000,
+      "type": "phygital",
+      "sport": "Formula 1"
+    },
+    {
+      "key": "7",
+      "artist": 6,
+      "image": "https://picsum.photos/seed/tennis2/400/300",
+      "price": "0.8",
+      "title": "Virtual Coaching Session with Ace Williams",
+      "timeLeft": 345600000,
+      "type": "digital",
+      "sport": "Tennis"
+    },
+    {
+      "key": "8",
+      "artist": 7,
+      "image": "https://picsum.photos/seed/football1/400/300",
+      "price": "3.5",
+      "title": "2022 Global Cup Match Ball (Tangible)",
+      "timeLeft": 518400000,
+      "type": "tangible",
+      "sport": "Football"
+    },
+    {
+      "key": "9",
+      "artist": 8,
+      "image": "https://picsum.photos/seed/basketball1/400/300",
+      "price": "1.5",
+      "title": "Pro Hoops All-Star Game 2025 VIP Pass",
+      "timeLeft": 7776000000,
+      "type": "event_ticket",
+      "sport": "Basketball"
+    },
+    {
+      "key": "10",
+      "artist": 9,
+      "image": "https://picsum.photos/seed/boxing1/400/300",
+      "price": "10.0",
+      "title": "The Greatest's Boxing Gloves (Artifact)",
+      "timeLeft": 1209600000,
+      "type": "tangible",
+      "sport": "Boxing"
+    }
+  ],
+  "artists": [
+    {
+      "name": "Hoops Auctions",
+      "handler": "@hoopsauctions",
+      "image": "https://picsum.photos/seed/artist1/100/100"
+    },
+    {
+      "name": "Redstone United",
+      "handler": "@redstoneunited",
+      "image": "https://picsum.photos/seed/artist2/100/100"
+    },
+    {
+      "name": "Grasscourt Majors",
+      "handler": "@grasscourtmajors",
+      "image": "https://picsum.photos/seed/artist3/100/100"
+    },
+    {
+      "name": "Pro Golf Tour",
+      "handler": "@progolftour",
+      "image": "https://picsum.photos/seed/artist4/100/100"
+    },
+    {
+      "name": "Olympic Legacy",
+      "handler": "@olympiclegacy",
+      "image": "https://picsum.photos/seed/artist5/100/100"
+    },
+    {
+      "name": "F1 Collectibles",
+      "handler": "@f1collectibles",
+      "image": "https://picsum.photos/seed/artist6/100/100"
+    },
+    {
+      "name": "Tennis Icons",
+      "handler": "@tennisicons",
+      "image": "https://picsum.photos/seed/artist7/100/100"
+    },
+    {
+      "name": "Global Football Museum",
+      "handler": "@globalfootball",
+      "image": "https://picsum.photos/seed/artist8/100/100"
+    },
+    {
+      "name": "Pro Hoops Events",
+      "handler": "@prohoopsevents",
+      "image": "https://picsum.photos/seed/artist9/100/100"
+    },
+    {
+      "name": "Boxing Legends",
+      "handler": "@boxinglegends",
+      "image": "https://picsum.photos/seed/artist10/100/100"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+.header {
+  }
+  
+  .search-bar input {
+  }
+  
+  .user-settings {
+    display: flex;
+    align-items: center;
+  }
+  
+  .create-club-button {
+    cursor: pointer;
+    border: 1px solid white;
+    padding: 7px 20px;
+    border-radius: 13px;
+    background: transparent;
+    color: white;
+    transition: transform 0.2s;
+  }
+  
+  .create-club-button:hover {
+    transform: scale(0.99);
+  }
+  
+  .icon-button {
+    cursor: pointer;
+    padding: 7px;
+    background: none;
+    margin-left: 10px;
+    transition: transform 0.2s;
+  }
+  
+  .icon-button:hover {
+    transform: scale(0.99);
+  }
+  
+  .icon-button img {
+    width: 24px;
+    height: 24px;
+    filter: brightness(0) invert(1); 
+  }
+  
+  .modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 999;
+  }
+  
+  .modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+  }
+  
+  .modal input {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+  .profile-pic-preview {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .profile-pic-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
